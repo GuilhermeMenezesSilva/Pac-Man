@@ -20,3 +20,5 @@ Para utilizar este projeto, basta baixar ou clonar este repositório em sua máq
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo `LICENSE.md` para detalhes.
+
+O objetivo deste projeto é criar a estrutura inicial de classes para o jogo Pac-Man. O Pac-Man é um jogo clássico de arcade lançado pela primeira vez em 1980, que se tornou um ícone da cultura pop.
