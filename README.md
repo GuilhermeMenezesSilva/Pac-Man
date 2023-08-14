@@ -1,8 +1,5 @@
 # Pac-Man
-
-## Objetivo do projeto
-
-O objetivo deste projeto é criar a estrutura inicial de classes para o jogo Pac-Man. O Pac-Man é um jogo clássico de arcade lançado pela primeira vez em 1980, que se tornou um ícone da cultura pop.
+Pac-Man (conhecido em japonês com o nome de Puckman ou パックマン) é um jogo eletrônico criado por Tōru Iwatani para a empresa Namco, e sendo distribuído para o mercado americano pela Midway Games. Produzido originalmente para Arcade no início dos anos 1980, tornou-se um dos jogos mais jogados e populares no momento, tendo versões modernas para diversos consoles e continuações para tantos outros, inclusive na atualidade
 
 ## Descrição do projeto
 
